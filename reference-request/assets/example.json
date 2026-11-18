@@ -1,0 +1,75 @@
+{
+  "title": "推荐信请求邮件示例",
+  "subtitle": "匿名合成案例，用于展示邮件与批注如何对应。",
+  "notice": "以下课程经历、人物和申请均为虚构示例，不能直接发送。请用自己的真实信息替换方括号内容。",
+  "email": {
+    "subject": "申请【项目名称】：想请您担任推荐人",
+    "greeting": "王老师您好：",
+    "paragraphs": [
+      "我是【姓名】，曾在【学期】修读您的【课程名称】。我准备申请【项目名称】，想请问您是否愿意为我写一封推荐信。",
+      "在【课程项目】中，我负责【本人完成的具体工作】，并整理出【可核实的交付物】。展示后，您建议我【已确认的反馈】；我随后【实际采取的行动】。",
+      "我希望继续学习【真实的学习方向】。想请您推荐，是因为您看过我在【具体场景】中的表现，可以从这段接触评价我。",
+      "如果您愿意，我会在确认后提供【已准备或确认可提供的材料】。申请截止时间是【日期】，推荐信通过【提交方式】提交。若您最近时间不方便，或觉得对我的了解还不够，我完全理解。"
+    ],
+    "closing": "谢谢您考虑。\n祝好！\n【姓名】"
+  },
+  "notes": [
+    {
+      "id": 1,
+      "paragraph": 0,
+      "quote": "曾在【学期】修读您的【课程名称】",
+      "title": "关系与目标",
+      "comment": "用准确的课程关系帮助老师定位申请者；学期未知时保留待填项，不猜具体时间。",
+      "citations": [
+        {"source_id": "uchicago", "support": "检查该指南当前页面对推荐人如何交代与申请者关系的具体建议。"}
+      ]
+    },
+    {
+      "id": 2,
+      "paragraph": 1,
+      "quote": "我负责【本人完成的具体工作】，并整理出【可核实的交付物】",
+      "title": "可核实的例子",
+      "comment": "以本人动作和可查看的交付物代替抽象优点；发送前须用真实材料替换占位文本。",
+      "citations": [
+        {"source_id": "northeastern", "support": "核对该指南是否建议用具体表现支持对申请者能力的描述。"}
+      ]
+    },
+    {
+      "id": 3,
+      "paragraph": 2,
+      "quote": "您看过我在【具体场景】中的表现",
+      "title": "推荐人的独特视角",
+      "comment": "说明为什么找这位推荐人，并确保所说的观察场景确实发生过。",
+      "citations": []
+    },
+    {
+      "id": 4,
+      "paragraph": 3,
+      "quote": "【已准备或确认可提供的材料】",
+      "title": "材料与提交安排",
+      "comment": "仅列已准备或明确答应能提供的材料。不要为了显得周全，承诺尚未准备的简历或个人陈述。",
+      "citations": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "uchicago",
+      "title": "University of Chicago — Writing Letters of Recommendation",
+      "url": "https://careeradvancement.uchicago.edu/advanced-degrees/advanced-degree-resources/writing-letters-of-recommendation/",
+      "kind": "recommender-guide",
+      "status": "unverified"
+    },
+    {
+      "id": "northeastern",
+      "title": "Northeastern — Graduate Recommendation Guide",
+      "url": "https://graduate.northeastern.edu/knowledge-hub/grad-school-recommendation/",
+      "kind": "applicant-guide",
+      "status": "unverified"
+    }
+  ],
+  "checks": [
+    "补齐推荐人准确称呼、真实申请项目和截止日期。",
+    "核对每个经历、个人贡献、教师反馈和可提供材料后再发送。",
+    "实际引用官方来源前，打开页面核对其内容与批注的对应关系。"
+  ]
+}

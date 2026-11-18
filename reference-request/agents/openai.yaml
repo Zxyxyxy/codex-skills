@@ -1,0 +1,4 @@
+interface:
+  display_name: "推荐信请求邮件"
+  short_description: "基于真实经历写推荐信请求邮件，附事实要点与官方指南批注"
+  default_prompt: "用 $reference-request 写一封推荐信请求邮件，并附上推荐人可核实的要点。"
