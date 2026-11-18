@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "page": [1600, 1060],
+  "left": [32, 128, 652, 1012],
+  "right_x": 700,
+  "right_width": 868,
+  "section_tops": [119, 567],
+  "red": [0.72, 0.14, 0.16],
+  "ink": [0.13, 0.16, 0.18],
+  "gray": [0.40, 0.43, 0.46],
+  "rule": [0.84, 0.85, 0.85],
+  "rewrite_size": 19.5,
+  "rewrite_leading": 27,
+  "question_size": 14.2,
+  "question_leading": 20.5
+}

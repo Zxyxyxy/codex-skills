@@ -1,0 +1,24 @@
+{
+  "name": "resume-fix",
+  "version": "1.1.2",
+  "sha256": {
+    "SKILL.md": "80e5efc63eab9a6072b556eaa07adc35a3f22bd1337152df260be7201baf36be",
+    "agents/openai.yaml": "c7d894954d6dcacc8fe7c56fcab325c34b05d24a8da47c201f520e216496d7f1",
+    "requirements.txt": "081770646ba488586369ed0c4f267c58c063a081f1b695d3bcd1375dfd329887",
+    "assets/layout.json": "eff822df1789701fe80217e09e4aec41754afe03fcb83b742bf79429fb5d89b7",
+    "references/content-rules.md": "9f9c124784f3899d7913c9f29aa6896737132df585bc194f6828c30557b1974b",
+    "references/layout.md": "75f2d6b85fc87af0b50ebb9fb2d6838fa7e32afbbaa2c42eddb584c447028db2",
+    "references/local-install.md": "6fd753c48d4273989e538b3f51fbb6f280ce514af87ae067f2f66ab5323cd94a",
+    "references/review-schema.md": "ebd760337c88cec10a39eb7dd9f677365cf980fca1d769cd737e6de048429882",
+    "references/conversation.md": "add5eb7f92153c7e878765312ce2e818b5993836388ec86ae828a3c012193326",
+    "scripts/resume_fix.py": "221d14ee51fdf1853859acadd620cc55370c5e33ffe301cb4c630b199bcf68ce",
+    "scripts/make_example.py": "6109d2079e6ebf774534bffb566e06ee38223f0f8cc5805a1e03aeee2d4d77fd",
+    "scripts/package_skill.py": "c91be6ed414de49da24d48deed0d3205be628681846bc57a54bfa75c146ab39c",
+    "tests/test_resume_fix.py": "e063dabdbe766e543247f192b561672ff752d0987977a19fa1ae30dd8f919aae",
+    "tests/fixtures/resume-pm-recsys.txt": "530baf8305da0a05e85e5319fe870930e55a4b5157d33a3caba281ee3ad2aa3e",
+    "assets/example-preview.png": "2900cdb2f3d5b416b29ed10d8189420194f586d527c029210ae9768f0bdb83bd"
+  },
+  "contains_real_resumes": false,
+  "contains_model_credentials": false,
+  "example_source": "Synthetic fixture, not a model run"
+}
